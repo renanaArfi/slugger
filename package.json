@@ -3,10 +3,10 @@
     "dev": "nodemon src/consumer.draft.js"
   },
   "name": "@renanaarfi/slugger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
